@@ -1,12 +1,12 @@
 //This is one state of our app and it will be exported to rootState
 export default function() {
   return [
-    {title: 'JavaScript: The Good Parts'},
-    {title: 'The dark Tower'},
-    {title: 'Merry Jane Watson'},
-    {title: 'Into the Blue'},
-    {title: 'The Five Brothers'},
-    {title: 'The Greatest Show on Earth'},
-    {title: 'Science Rules'}
+    {title: 'JavaScript: The Good Parts', pages: 110},
+    {title: 'The dark Tower', pages: 66},
+    {title: 'Merry Jane Watson', pages: 170},
+    {title: 'Into the Blue', pages: 930},
+    {title: 'The Five Brothers', pages: 190},
+    {title: 'The Greatest Show on Earth', pages: 890},
+    {title: 'Science Rules', pages: 440}
   ];
 }
